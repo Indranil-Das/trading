@@ -1,5 +1,5 @@
 # Project             :   Trading
-# Author              :   Indranil Das
+# Author              :   IndranilDas
 # Created             :   17/08/2023
 # Description         :   Dockerfile to build Trading image for GUI release
 
