@@ -1,7 +1,7 @@
-# Project             :   Screenipy
-# Author              :   Pranjal Joshi
+# Project             :   Trading
+# Author              :   Indranil Das
 # Created             :   17/08/2023
-# Description         :   Dockerfile to build Screeni-py image for GUI release
+# Description         :   Dockerfile to build Trading image for GUI release
 
 # FROM ubuntu:latest as base
 # FROM tensorflow/tensorflow:2.9.2 as base
